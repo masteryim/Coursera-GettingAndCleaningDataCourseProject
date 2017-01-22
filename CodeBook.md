@@ -3,7 +3,8 @@ This code book describes the whole field of tidy data
 
 ## Identifiers
 `subject` - The ID of the test subject
-`activity` - The type of activity performed when the corresponding measurements were taken (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+`activity` - The type of activity performed when the corresponding measurements were taken 
+(WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 ## Measurements
 * `BodY`Acc-mean()-X`
@@ -38,7 +39,7 @@ This code book describes the whole field of tidy data
 * `BodY`GY`roJerk-std()-Z`
 * `BodY`AccMag-mean()`
 * `BodY`AccMag-std()`
-* `GravitY`AccMag-mean()`
+* `GravitY`AccMag-mean()``
 * `GravitY`AccMag-std()`
 * `BodY`AccJerkMag-mean()`
 * `BodY`AccJerkMag-std()`
