@@ -14,7 +14,7 @@ Deliverable, R script called `run_analysis.R` that does the following.
 
 
 ## How to run R script
-1. Download the dataset(UCI HAR Dataset) if it does not already exist in the working directory.
+1. Download the dataset `UCI HAR Dataset` if it does not already exist in the working directory.
 2. Donwload the R script `run_analysis.R` in the working directory
 3. Type the command `source("run_analysis.R")` to run the R script on your R Sudio or R console
 4. After few seconds `tidy.txt` will be made in the working directory
