@@ -2,6 +2,7 @@
 This code book describes the whole field of tidy data
 
 ## Identifiers
+<<<<<<< HEAD
 * `subject` - The ID of the test subject
 * `activity` - The type of activity performed when the corresponding measurements were taken (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
@@ -72,3 +73,76 @@ This code book describes the whole field of tidy data
 * `fBodyBodyGyroMag-std()`
 * `fBodyBodyGyroJerkMag-mean()`
 * `fBodyBodyGyroJerkMag-std()`
+=======
+`subject` - The ID of the test subject
+
+`activity` - The type of activity performed the correspoding measurements were taken (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
+## Measurements
+* `BodY`Acc-mean()-X`
+* `BodY`Acc-mean()-Y`
+* `BodY`Acc-mean()-Z`
+* `BodY`Acc-std()-X`
+* `BodY`Acc-std()-Y`
+* `BodY`Acc-std()-Z`
+* `GravitY`Acc-mean()-X`
+* `GravitY`Acc-mean()-Y`
+* `GravitY`Acc-mean()-Z`
+* `GravitY`Acc-std()-X`
+* `GravitY`Acc-std()-Y`
+* `GravitY`Acc-std()-Z`
+* `BodY`AccJerk-mean()-X`
+* `BodY`AccJerk-mean()-Y`
+* `BodY`AccJerk-mean()-Z`
+* `BodY`AccJerk-std()-X`
+* `BodY`AccJerk-std()-Y`
+* `BodY`AccJerk-std()-Z`
+* `BodY`GY`ro-mean()-X`
+* `BodY`GY`ro-mean()-Y`
+* `BodY`GY`ro-mean()-Z`
+* `BodY`GY`ro-std()-X`
+* `BodY`GY`ro-std()-Y`
+* `BodY`GY`ro-std()-Z`
+* `BodY`GY`roJerk-mean()-X`
+* `BodY`GY`roJerk-mean()-Y`
+* `BodY`GY`roJerk-mean()-Z`
+* `BodY`GY`roJerk-std()-X`
+* `BodY`GY`roJerk-std()-Y`
+* `BodY`GY`roJerk-std()-Z`
+* `BodY`AccMag-mean()`
+* `BodY`AccMag-std()`
+* `GravitY`AccMag-mean()``
+* `GravitY`AccMag-std()`
+* `BodY`AccJerkMag-mean()`
+* `BodY`AccJerkMag-std()`
+* `BodY`GY`roMag-mean()`
+* `BodY`GY`roMag-std()`
+* `BodY`GY`roJerkMag-mean()`
+* `BodY`GY`roJerkMag-std()`
+* `BodY`Acc-mean()-X`
+* `BodY`Acc-mean()-Y`
+* `BodY`Acc-mean()-Z`
+* `BodY`Acc-std()-X`
+* `BodY`Acc-std()-Y`
+* `BodY`Acc-std()-Z`
+* `BodY`AccJerk-mean()-X`
+* `BodY`AccJerk-mean()-Y`
+* `BodY`AccJerk-mean()-Z`
+* `BodY`AccJerk-std()-X`
+* `BodY`AccJerk-std()-Y`
+* `BodY`AccJerk-std()-Z`
+* `BodY`GY`ro-mean()-X`
+* `BodY`GY`ro-mean()-Y`
+* `BodY`GY`ro-mean()-Z`
+* `BodY`GY`ro-std()-X`
+* `BodY`GY`ro-std()-Y`
+* `BodY`GY`ro-std()-Z`
+* `BodY`AccMag-mean()`
+* `BodY`AccMag-std()`
+* `BodY`BodY`AccJerkMag-mean()`
+* `BodY`BodY`AccJerkMag-std()`
+* `BodY`BodY`GY`roMag-mean()`
+* `BodY`BodY`GY`roMag-std()`
+* `BodY`BodY`GY`roJerkMag-mean()`
+* `BodY`BodY`GY`roJerkMag-std()`
+>>>>>>> origin/master
