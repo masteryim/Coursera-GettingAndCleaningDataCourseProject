@@ -3,8 +3,7 @@ This code book describes the whole field of tidy data
 
 ## Identifiers
 `subject` - The ID of the test subject
-`activity` - The type of activity performed when the corresponding measurements were taken 
-(WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+`activity` - The type of activity performed the correspoding measurements were taken (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 ## Measurements
 * `BodY`Acc-mean()-X`
